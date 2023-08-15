@@ -1,5 +1,5 @@
 ## Table des matières
-1. [Informations générales](#informations_générales)
+1. [Informations](#informations)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Utilisation](#utilisation)
@@ -8,7 +8,7 @@
 
 # RPG en ligne de commande (Python)
 ***
-## Informations_Générales
+## Informations
 ***
 - Objectif du projet : réaliser un RPG python utilisable que en ligne de commande. (programmation orientée objet)
 - Outils utilisés : création de différentes classes pour comprendre l'utilité de ces dernières.
