@@ -10,7 +10,7 @@
 ## Informations_Générales
 ***
 RPG en ligne de commande (Python)
-## Objectifs
+## Cahier_des_charges
 ***
 - Objectif du projet : réaliser un RPG python utilisable que en ligne de commande. (programmation orientée objet)
 - Outils utilisés : création de différentes classes pour comprendre l'utilité de ces dernières.
